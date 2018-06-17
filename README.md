@@ -1,7 +1,7 @@
 # PEX-ML-challenge
 PEX Machine Learning Challenge <br>
 <p>
-  If you want to look at knitted final result, I have hosted them on- <br>
+  If you want to look at knitted final result, I have hosted them on- https://dmkothari.github.io/PEX-ML-challenge/ <br>
 <p>
 Jupyter Ipython notebooks have the code and my rationale on the code (review ipynb and NOT html) <br>
 <p>
